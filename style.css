@@ -60,3 +60,11 @@ input::placeholder {
     padding: 1em;
 
 }
+
+.task-done {
+    text-decoration: line-through;
+}
+
+.task-tabs div {
+    cursor: pointer;
+}
